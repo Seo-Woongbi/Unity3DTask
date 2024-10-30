@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3b043b82fe6d3f489785e57b4375193, type: 3}
+  m_Name: Chicken
+  m_EditorClassIdentifier: 
+  displayName: "\uCE58\uD0A8"
+  description: "\uBA39\uACE0 \uC2F6\uB2E4.."
+  dropPrefab: {fileID: 3396220447171755650, guid: 8ab16be57c625e84b9d8acd2e2907e5f, type: 3}
+  consumables:
+  - type: 0
+    value: 100
+  - type: 1
+    value: 100
